@@ -2,8 +2,6 @@
 # Prints the value of two dice and their total for the number
 #  of throws specified by "n" unless the user craps out.
 #
-#  Test Change to push
-#
 # Variables Used:
 #    n:       Number of times to throw the dice.
 #    i:       Counter variable within "while" loop to count the number
